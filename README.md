@@ -1,7 +1,7 @@
 
-# Student-Database-Management-System
+# Student-Management-System
 
-A Student Database Management System is a comprehensive software application designed to streamline and automate the various administrative, academic, and communication processes involved in managing a school's or educational institution's student-related activities.
+A Student Management System (SMS) is a comprehensive software application designed to streamline and automate the various administrative, academic, and communication processes involved in managing a school's or educational institution's student-related activities.
 
  # Key Features of a Student Management System :-
 **Student Enrollment**: Facilitates online registration and admission processes, capturing essential student information.
