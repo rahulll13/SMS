@@ -1,5 +1,5 @@
 
-   #                                               Student-Management-System
+   # Student-Management-System
 
 A Student Management System (SMS) is a comprehensive software application designed to streamline and automate the various administrative, academic, and communication processes involved in managing a school's or educational institution's student-related activities.
 
